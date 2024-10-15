@@ -1,5 +1,5 @@
 Hi folks, 
-im pawansai,a passionate Computer Science Engineering student with a strong interest in Machine Learning, AI, and Software
+im pawansai,a passionate Computer Science Engineering student with a strong interest in Machine Learning, AI, and Software.
 I have basic skills in Machine Learning, Python, JavaScript, C Programming.
 im currently interested and gaining knowledge in Machine Learning.
 you can reach me through my mail : pawansaigopi17@gmail.com
